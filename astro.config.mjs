@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // Astro config docs https://astro.build/config
 export default defineConfig({
 	// required to publish on GH Pages
-	site: 'https://mafajardo23.github.io',
+	site: 'https://mafajardo23ç.github.io',
 	base: '/dig345-devlog',
 	integrations: [
 		// Startlight-specific config
